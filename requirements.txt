@@ -1,0 +1,23 @@
+# Data processing
+numpy>=1.26,<3.0
+pandas>=2.2,<3.0
+h5py>=3.11,<4.0
+scipy>=1.13,<2.0
+
+# Analysis and evaluation
+scikit-learn>=1.5,<2.0
+
+# Visualisation
+matplotlib>=3.9,<4.0
+seaborn>=0.13,<1.0
+
+# Notebook environment
+jupyterlab>=4.2,<5.0
+ipykernel>=6.29,<7.0
+
+# Zero-shot LLM evaluation
+openai>=1.40,<2.0
+python-dotenv>=1.0,<2.0
+
+# Utilities
+tqdm>=4.66,<5.0
